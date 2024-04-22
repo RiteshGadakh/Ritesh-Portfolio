@@ -30,7 +30,7 @@ function ProjectsSection() {
               </button>
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={() => window.open('passionforfashion.netlify.app')}
+                onClick={() => window.open('https://passionforfashion.onrender.com/')}
               >
                 Live Demo
               </button>
