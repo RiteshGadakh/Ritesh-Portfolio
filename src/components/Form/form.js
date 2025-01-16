@@ -9,7 +9,7 @@ const FormDetails = () => {
     e.preventDefault();
 
     emailjs
-      .sendForm('service_owsut9a', 'template_0jo8zgh', form.current, { publicKey: 'QNWwcUML3mVRC86vW', })
+      .sendForm('service_owsut9a', 'template_0jo8zgh', form.current, { publicKey: 'okqvXEnXRykbz6BU3', })
       .then(() => {
           console.log('SUCCESS!');
           alert('Email sent successfully');
