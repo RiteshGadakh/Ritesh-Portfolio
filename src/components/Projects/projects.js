@@ -2,7 +2,7 @@ import React from 'react';
 import '../CSS/style.css';
 import project1 from '../assets/project1.jpg';
 import project2 from '../assets/project2.png';
-import project3 from '../assets/project3.jpg';
+import coming_soon from '../assets/coming_soon.jpg';
 
 function ProjectsSection() {
   return (
@@ -64,7 +64,7 @@ function ProjectsSection() {
             <div className="article-container">
               <img
                 src={coming_soon}
-                alt="Project 3"
+                alt="cpming_soon"
                 className="project-img"
               />
             </div>
