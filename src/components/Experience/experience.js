@@ -124,7 +124,7 @@ const Experience = () => {
                                     className="icon"
                                 />
                                 <div>
-                                    <h3>MangoDB</h3>
+                                    <h3>MongoDB</h3>
                               
                                 </div>
                             </article>
