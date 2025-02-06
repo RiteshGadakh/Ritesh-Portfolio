@@ -63,12 +63,12 @@ function ProjectsSection() {
           <div className="details-container color-container">
             <div className="article-container">
               <img
-                src={project3}
+                src={coming_soon}
                 alt="Project 3"
                 className="project-img"
               />
             </div>
-            <h2 className="experience-sub-title project-title">Photography Website</h2>
+            <h2 className="experience-sub-title project-title">Coming Soon</h2>
             <div className="btn-container">
               <button
                 className="btn btn-color-2 project-btn"
