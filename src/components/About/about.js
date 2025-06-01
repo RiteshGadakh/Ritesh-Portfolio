@@ -37,7 +37,7 @@ const AboutSection = () => {
                 className="icon"
               />
               <h3>Education</h3>
-              <p>Bachelors Degree in<br />Computer Science</p>
+              <p>Masters in<br />Computer Science</p>
             </div>
           </div>
           <div className="text-container">
