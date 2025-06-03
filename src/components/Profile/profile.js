@@ -27,7 +27,7 @@ const ProfileSection = () => {
     <section id="profile">
       <div className="section__pic-container">
         <img 
-        src={riteshxuv}
+        src={ritesh}
         alt="Ritesh profile picture" 
         />
       </div>
