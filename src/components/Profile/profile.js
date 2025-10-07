@@ -6,7 +6,7 @@ import github from '../assets/github.png';
 
 const ProfileSection = () => {
   const openResume = () => {
-    const pdfUrl = 'https://drive.google.com/file/d/1kgcFUAhlNgPjgykOb2FESJ7YUn6wnAU9/view?usp=sharing';
+    const pdfUrl = 'https://drive.google.com/file/d/13DBb7Gd_2hRlvzZMgXeYHqsr-LwO9ALu/view?usp=sharing';
     window.open(pdfUrl, '_blank');
     // window.open("../assets/resume-example.pdf");
   };
