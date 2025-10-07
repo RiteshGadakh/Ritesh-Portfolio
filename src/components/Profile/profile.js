@@ -3,12 +3,13 @@ import '../CSS/style.css';
 import ritesh from '../assets/ritesh2.png';
 import linkedin from '../assets/linkedin.png';
 import github from '../assets/github.png';
+import resume from '../assets/Ritesh_Resume.pdf'
 
 const ProfileSection = () => {
   const openResume = () => {
     // const pdfUrl = 'https://drive.google.com/file/d/13DBb7Gd_2hRlvzZMgXeYHqsr-LwO9ALu/view?usp=sharing';
     // window.open(pdfUrl, '_blank');
-     window.open("../assets/Ritesh_Resume.pdf");
+     window.open(resume);
   };
 
   const openContactInfo = () => {
