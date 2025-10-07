@@ -6,9 +6,9 @@ import github from '../assets/github.png';
 
 const ProfileSection = () => {
   const openResume = () => {
-    const pdfUrl = 'https://drive.google.com/file/d/13DBb7Gd_2hRlvzZMgXeYHqsr-LwO9ALu/view?usp=sharing';
-    window.open(pdfUrl, '_blank');
-    // window.open("../assets/resume-example.pdf");
+    // const pdfUrl = 'https://drive.google.com/file/d/13DBb7Gd_2hRlvzZMgXeYHqsr-LwO9ALu/view?usp=sharing';
+    // window.open(pdfUrl, '_blank');
+     window.open("../assets/Ritesh_Resume.pdf");
   };
 
   const openContactInfo = () => {
