@@ -1,6 +1,6 @@
 import React from 'react';
 import '../CSS/style.css';
-import ritesh from '../assets/ritesh.png';
+import ritesh from '../assets/ritesh2.png';
 import linkedin from '../assets/linkedin.png';
 import github from '../assets/github.png';
 import resume from '../assets/Ritesh_Resume.pdf'
