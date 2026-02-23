@@ -1,6 +1,6 @@
 import React from 'react';
 import '../CSS/style.css';
-import ritesh from '../assets/ritesh2.png';
+import ritesh2 from '../assets/ritesh2.png';
 import linkedin from '../assets/linkedin.png';
 import github from '../assets/github.png';
 import resume from '../assets/Ritesh_Resume.pdf'
@@ -28,7 +28,7 @@ const ProfileSection = () => {
     <section id="profile">
       <div className="section__pic-container">
         <img 
-        src={ritesh}
+        src={ritesh2}
         alt="Ritesh profile picture" 
         />
       </div>
